@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	//xj "github.com/basgys/goxml2json"
+	//xj "github.com/basgys/goxml2json" This is the original repo from which the goxml2json was forked and changed to return everything in a json array
 	xj "github.com/SpectoLabs/goxml2json"
 )
 
