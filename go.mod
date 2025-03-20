@@ -1,4 +1,4 @@
-module github.com/surftripper/xmltojson
+module github.com/iocosolutions/xmltojson
 
 go 1.20
 
