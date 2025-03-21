@@ -9,7 +9,7 @@ This software utilises a fork of https://github.com/basgys/goxml2json with a mod
 
 ### Example: convertxml test.xml
 
-Where text.xml contains
+Where test.xml contains
 ```XML
 <lineitems>
     <lineitem>
